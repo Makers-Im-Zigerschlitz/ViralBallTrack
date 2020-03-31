@@ -52,7 +52,7 @@ For inspiration: Search for "marble lift" "lift mechanism" or similar keywords.
 Share your masterpieces on social media by the hashtag of #ViralBallTrack. 
 
 ## Join the discussion
-Find our mattermost channel at https://chat.coredump.ch/coredump/channels/viralballtrack
+Find our mattermost channel at https://chat.coredump.ch/coredump/channels/viralballtrack (registration is open) or via Matrix at `#viralballtrack:matrix.coredump.ch`.
 
 ## Improve the design
 That's what this git is for!
