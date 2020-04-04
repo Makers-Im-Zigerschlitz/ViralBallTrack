@@ -11,16 +11,17 @@ As soon as the storm passes by and we get to meet in person again we'll be able 
 ## What are the specs?
 
 ### Baseplate / Dimensions
-- To make ends meet the top of your baseplate needs to be at 25mm above ground level - bonus points for adjustable feet for leveling.
+To make ends meet the top of your baseplate needs to be at **25mm above ground level** - bonus points for adjustable feet for leveling.
 
-There are no limits to the dimensions of your ball track module. As long as the marbles come in and out with the above specs - you'll be fine. 
+There are no limits to the dimensions of your ball track module - you'll have to move it on your own!
 
 ### How to connect your ViralBallTrack to the others
 It is absolutely critical to plan your entry and exitpoints as described here. We don't want those ball bearings to fall of the edge of your board or get stuck!
 
 You can find the required STLs in the [hardware](hardware/entry-exit) folder of this repository. 
-The arrow of the exit-part needs to be aligned to the right upper edge of your baseplate. 
-The wings of the entry-part need to be aligned to the left upper edge of your baseplate
+
+- The arrow of the exit-part needs to be aligned to the right upper edge of your baseplate. 
+- The wings of the entry-part need to be aligned to the left upper edge of your baseplate
 
 ![Alignment of connector](documentation/images/Connector-top.png?raw=true "Alignment of connector")
 
