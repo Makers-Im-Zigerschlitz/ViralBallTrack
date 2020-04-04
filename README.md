@@ -4,7 +4,7 @@ Simple and cheap set for a modular ball track to sweeten up life in quarantine i
 ## Goal
 - Create a Hacker- and Maker-Challenge in times of COVID-19 isolation.
 - Give families a fun way of spending time together during quarantine, brainstorm ideas, invent mechanisms, learn by trial and error and admire their own builds and the works of other participants.
-- Hackerspaces / Makerspace / Schools / Libraries can prefabricate kits and sell them with a small margin to support their institution.
+- Hackerspaces / Makerspaces / Schools / Libraries can prefabricate kits and sell them with a small margin to support their institution.
 
 As soon as the storm passes by and we get to meet in person again we'll be able to daisy-chain our tracks and admire all the creativity coming from several weeks of isolation
 
@@ -52,7 +52,7 @@ For inspiration: Search for "marble lift" "lift mechanism" or similar keywords.
 Share your masterpieces on social media by the hashtag of #ViralBallTrack. 
 
 ## Join the discussion
-Find our mattermost channel at https://chat.coredump.ch/coredump/channels/viralballtrack
+Find our mattermost channel at https://chat.coredump.ch/coredump/channels/viralballtrack (registration is open) or via Matrix at `#viralballtrack:matrix.coredump.ch`.
 
 ## Improve the design
 That's what this git is for!
