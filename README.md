@@ -13,6 +13,8 @@ As soon as the storm passes by and we get to meet in person again we'll be able 
 ### Baseplate / Dimensions
 To make ends meet the top of your baseplate needs to be at **25mm above ground level** - bonus points for adjustable feet for leveling.
 
+![Level of baseplate](documentation/images/TopBaseplate.png?raw=true "Top of baseplate needs to be 25mm above ground")
+
 There are no limits to the dimensions of your ball track module - you'll have to move it on your own!
 
 ### How to connect your ViralBallTrack to the others
